@@ -19,7 +19,7 @@ A discord.js-based bot dedicated to porting over the entirety of Overkill Softwa
 }
 `
 4. Open up the node.js **command prompt** (not the regular node.js program) and navigate to the Project Hoxworth folder.
-5. Type `npm run start` once you have entered the folder. The bot should activate. To test it, type `$h ping`, or whatever you changed the prefix to earlier in setup if you changed the prefix.
+5. Type `npm run start` once you have entered the folder. The bot should activate. To test it, type `{prefix}help`.
 
 # How to find commands:
 The commands are all listed in a pastebin, which can be found by typing `{prefix}help`, or [here](https://pastebin.com/Q0gaydHt).

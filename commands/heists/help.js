@@ -23,11 +23,11 @@ module.exports.run = async (bot, message, args) => {
                 "value": "Those dirty feds don't call our heists the same thing we do, so ya have to use their names, i.e 'bank-heist:-gold' would instead be 'harvest-and-trustee-bank'."
               },
               {
-                "name": "*How am find all command?*",
-                "value": "All command inputs can be found [here.](https://pastebin.com/Q0gaydHt)"
+                "name": "*How do I find all the inputs?*",
+                "value": "All command inputs can be found [here.](https://pastebin.com/u/SlipsIsTaken/1/9J1zmv6k)"
               },
               {
-                "name": "*Why bot not all heists have?*",
+                "name": "*Why doesn't the bot have all heists yet?*",
                 "value": "The server was heavily encrypted, so I'm still trying to find all the dirt they have. It'll take me a bit, but once it's finished up, I'd expect to find information on everything: All our heists, the gang, and all our skills. Hell, maybe we'll find some new ways to use our skills from these wankers.",
               }
             ]

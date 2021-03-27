@@ -1,0 +1,47 @@
+const Discord = module.require("discord.js");
+
+module.exports.run = async (bot, message, args) => {
+
+    try {
+const embed = {
+/////////CHANGE TITLE, LINK, AND **CHANGE COMMAND NAME**
+  "title": "THE ALESSO HEIST\n\n",
+  "color": 4886754,
+  "url": "https://payday.fandom.com/wiki/The_Alesso_Heist",
+  "timestamp": message.createdTimestamp,
+  "footer": {
+    "icon_url": "https://cdn.discordapp.com/avatars/325480677749293086/ce09c1fe156ca70411a32f8d148027de.png",
+    "text": "Bot Developed by Slips#9502"
+  },
+  "image": {
+    "url": "https://fbi.overkillsoftware.com/img/heistinfo/alesso.jpg"
+  },
+  "author": {
+    "name": "FedNet 1.3.3.7n",
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg/300px-Seal_of_the_Federal_Bureau_of_Investigation.svg.png"
+  },
+  "fields": [
+    {
+      "name": "INFO:",
+      "value": "The GenSec Arena was supposed to be GenSec’s flagship - it’s where they were showing off their new Investment Safe. The incident occurred on the same night that Swedish DJ, Alesso, was giving a concert.\n\n"
+    },
+    {
+      "name": "NOTES:",
+      "value": "This shows that the clowns like to be cocky. While they earned a huge fortune, GenSec was losing theirs. Looks like they had help from an inside source too. We can’t have GenSec getting suckered like that - recommend that they do a full sweep of all personnel with backstage access that night."
+    }
+  ]
+};
+message.channel.send("Here's what I've got:", { embed });
+    } catch(e) {
+
+        console.log(e.stack);
+
+    }
+}
+
+module.exports.help = {
+
+    name: "the-alesso-heist",
+    desc: "TAH",
+
+}

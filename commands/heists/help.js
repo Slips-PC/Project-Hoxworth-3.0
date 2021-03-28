@@ -24,7 +24,7 @@ module.exports.run = async (bot, message, args) => {
               },
               {
                 "name": "*How do I find all the inputs?*",
-                "value": "All command inputs can be found [here.](https://pastebin.com/u/SlipsIsTaken/1/9J1zmv6k)"
+                "value": "All inputs can be found in the following pastes:\n[Heist Inputs](https://pastebin.com/Q0gaydHt)\n[Heister Inputs \(Currently WIP as of 3/28/21\)](https://pastebin.com/Jtf7gmUV)\n[Cop Inputs \(Currently WIP as of 3/28/21\)](https://pastebin.com/UJ4NCPCG)"
               },
               {
                 "name": "*Why doesn't the bot have all heists yet?*",

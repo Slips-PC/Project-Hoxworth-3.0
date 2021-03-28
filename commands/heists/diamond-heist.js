@@ -27,7 +27,7 @@ const embed = {
     },
     {
       "name": "NOTES:",
-      "value": "This goes to prove that the Payday gang is still, for all intents and purposes, a bunch of simple thieves, motivated by a bottomless greed. For all their notoriety, craftiness and skill, they’re just two-bit criminals at heart and that will be their downfall. The fact that they took the bait on this is perfectly in line with how we will eventually to stop them. The timing of this hit is a bit odd, though. There’s something “off" about the Garnet Group in all of this, but I just can’t put my finger on it yet."
+      "value": "This goes to prove that the Payday gang is still, for all intents and purposes, a bunch of simple thieves, motivated by a bottomless greed. For all their notoriety, craftiness and skill, they’re just two-bit criminals at heart and that will be their downfall. The fact that they took the bait on this is perfectly in line with how we will eventually to stop them. The timing of this hit is a bit odd, though. There’s something \“off\" about the Garnet Group in all of this, but I just can’t put my finger on it yet."
     }
   ]
 };

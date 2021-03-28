@@ -23,7 +23,7 @@ const embed = {
   "fields": [
     {
       "name": "INFO:",
-      "value": "The Payday gang attempted to use the world crisis as an opportunity to enter and steal something from the White House. The audacity of their actions is remarkable, even for the Payday gang. It was also to be their downfall. Working with well-coordinated surveillance and tactics teams, the Clowns were intercepted and successfully stopped. In the brief firefight that ensued, all present members of the gang were killed. Payday mastermind “Bain", in a break from his usual M.O., is confirmed to have taken part in the operation and his body has been identified as one of those dead. Subsequent arrests were made to bring in the rest of the gang, effectively ending their reign of crime.\n\n"
+      "value": "The Payday gang attempted to use the world crisis as an opportunity to enter and steal something from the White House. The audacity of their actions is remarkable, even for the Payday gang. It was also to be their downfall. Working with well-coordinated surveillance and tactics teams, the Clowns were intercepted and successfully stopped. In the brief firefight that ensued, all present members of the gang were killed. Payday mastermind \"Bain\", in a break from his usual M.O., is confirmed to have taken part in the operation and his body has been identified as one of those dead. Subsequent arrests were made to bring in the rest of the gang, effectively ending their reign of crime.\n\n"
     },
     {
       "name": "NOTES:",

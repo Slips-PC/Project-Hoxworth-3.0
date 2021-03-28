@@ -23,7 +23,7 @@ const embed = {
   "fields": [
     {
       "name": "INFO:",
-      "value": "Murkywater is an army, and an army demands logistics. The supply chain for Murkywater is very impressive. Ships and trucks keep the ammo flowing out (and, if rumors are believed, the contraband flowing back), but the real workhouse of their supply chain is the Z-170 "Zeus" cargo plane. Capable of carrying everything from tanks to infantry, when it is packed with ill-gotten loot it is a tempting target.\n\n"
+      "value": "Murkywater is an army, and an army demands logistics. The supply chain for Murkywater is very impressive. Ships and trucks keep the ammo flowing out (and, if rumors are believed, the contraband flowing back), but the real workhouse of their supply chain is the Z-170 \"Zeus\" cargo plane. Capable of carrying everything from tanks to infantry, when it is packed with ill-gotten loot it is a tempting target.\n\n"
     },
     {
       "name": "NOTES:",

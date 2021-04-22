@@ -1,3 +1,4 @@
+# WARNING: THID PROJECT IS CURRENTLY **OUT OF SERVICE** AND AS SUCH WILL NOT BE RECEIVING ANY UPDATES FOR THE TIME BEING. THIRD PARTY PULL REQUESTS MAY STILL BE REVIEWED.
 # Project-Hoxworth-3.0
 A discord.js-based bot dedicated to porting over the entirety of Overkill Software's "FBI Files" Payday 2 Information Repository. Also includes guides for perk decks. Protected under Mozilla Public License V2.0.
 
